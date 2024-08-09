@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi! Welcome to my github!
+Currently working on my first personal project!
 
 <!--
 **vaidehi-karve/vaidehi-karve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
