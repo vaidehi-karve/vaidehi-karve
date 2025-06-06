@@ -1,16 +1,7 @@
 ## Hi! Welcome to my github!
 
-<!--
-**vaidehi-karve/vaidehi-karve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a person project!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+📚 Data Science student at UC San Diego, minoring in Business Analytics <br>
+🔋 Incoming intern at San Diego Gas and Electric <br>
+🧬 Currently building automated pipelines to standardize biomedical datasets at UCSD's FAIR Data Informatics (FDI) Lab <br>
+💻 Interested in exploring different areas of technology! <br>
+📫 Reach me at vkarve@ucsd.edu
